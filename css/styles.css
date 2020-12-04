@@ -1,0 +1,19 @@
+body{
+    background-image:url("/pictures/dg.jpg");
+    background-size: cover;
+    font-size: 2em;
+}
+h1{
+    text-align:center;
+    color:navy;
+    font-family: sans-serif;
+}
+ul,ol{
+    line-height: 45px;
+}
+p{
+    color: yellow;
+}
+img{
+    border-radius: 460px;
+}

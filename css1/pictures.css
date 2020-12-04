@@ -1,0 +1,12 @@
+img{
+    border-radius: 460px;
+}
+body{
+    background-image:url("/pictures/dg.jpg");
+    background-size: cover;
+    font-size: 2em;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
